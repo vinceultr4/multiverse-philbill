@@ -119,3 +119,17 @@ The original spark came from an X post.
 This is the Filipino multiverse version of that idea.
 
 Let’s see who turns the blueprint into reality.
+
+## Starter Code
+
+Basic schema, types, and a SwipeCard component are ready.
+
+To start building:
+
+1. Create a new Next.js app
+2. Install `@supabase/supabase-js`
+3. Add the files from `/starter` (or copy the code blocks below)
+4. Set up a free Supabase project and run the schema.sql
+5. Add your Supabase URL + Anon key to `.env.local`
+
+First person who ships a working upload + swipe feed gets featured.
